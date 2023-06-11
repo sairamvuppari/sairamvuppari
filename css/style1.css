@@ -280,20 +280,20 @@ header ul li a {
 }
 
 /* .hobbies .content {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-
-.hobbies .content .hobbybx {
-    width: 50%;
-    padding: 20px;
-}
-
-.hobbybx .content .hobbybx img {
-    max-width: 100%;
-    height: 100px;
-} */
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+  }
+  
+  .hobbies .content .hobbybx {
+      width: 50%;
+      padding: 20px;
+  }
+  
+  .hobbybx .content .hobbybx img {
+      max-width: 100%;
+      height: 100px;
+  } */
 
 .formbx {
   min-width: 60%;
